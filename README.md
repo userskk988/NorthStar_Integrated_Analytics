@@ -11,10 +11,4 @@ This submission provides a complete analytical solution for NorthStar, addressin
 - **`task5_optimization_report.md`**: Technical report on indexing strategies and performance tuning.
 - **`cleaned_*.csv`**: Refined, consistent datasets ready for immediate analysis.
 
-## 3. Implementation Instructions
-1.  **Python:** Upload `.ipynb` and `.csv` files to Google Colab.
-2.  **R:** Create an R runtime in Google Colab and paste the code from `task1_2_analytics.R`.
-3.  **GitHub:** Push this entire directory to a structured repository.
 
----
-*End of Submission Documentation*
